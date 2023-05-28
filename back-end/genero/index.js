@@ -40,6 +40,6 @@ module.exports = {
    apiDataGenero,
 };
 
-app.listen(4000, () =>{
-   console.log('Genero. Porta 4000')
+app.listen(5000, () =>{
+   console.log('Genero. Porta 5000')
 })
